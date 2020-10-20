@@ -28,6 +28,9 @@ Expert panel
 Edit books
 Edit publishers
 Edit categories
+.
+
+
 Getting started
 Install Xampp if not already installed. Can be downloaded from https://www.apachefriends.org/download.html
 Place the repository in htdocs folder of xampp
